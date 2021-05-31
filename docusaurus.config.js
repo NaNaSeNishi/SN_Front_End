@@ -12,6 +12,10 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: 'Social Network ',
+      logo: {
+        alt: 'My Site Logo',
+        src: 'img/wa2Icon.jpg',
+      },
       items: [
         {
           type: 'doc',
