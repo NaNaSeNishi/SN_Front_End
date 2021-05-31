@@ -7,13 +7,12 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/wa2Icon.jpg',
-  organizationName: 'SN', // Usually your GitHub org/user name.
-  projectName: 'sn', // Usually your repo name.
+  organizationName: 'NaNaSeNishi', // Usually your GitHub org/user name.
+  projectName: 'SN_Front_End', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Social Network ',
       logo: {
-        alt: 'My Site Logo',
         src: 'img/wa2Icon.jpg',
       },
       items: [
