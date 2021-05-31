@@ -2,13 +2,13 @@
 module.exports = {
   title: '《社交网络技术与应用》 项目报告',
   tagline: '日本排放核废水事件为主题的社交媒体分析',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://NaNaSeNishi.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/wa2Icon.jpg',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'SN', // Usually your GitHub org/user name.
+  projectName: 'sn', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Social Network ',
