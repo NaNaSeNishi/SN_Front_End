@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>《社交网络技术与应用》 项目报告 Blog</title>
+        <link>https://NaNaSeNishi.github.io/blog</link>
+        <description>《社交网络技术与应用》 项目报告 Blog</description>
+        <lastBuildDate>Sun, 23 May 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[About this project]]></title>
+            <link>https://NaNaSeNishi.github.io/blog/关于本项目</link>
+            <guid>关于本项目</guid>
+            <pubDate>Sun, 23 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[项目主题]]></description>
+        </item>
+    </channel>
+</rss>

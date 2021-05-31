@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://NaNaSeNishi.github.io/blog</id>
+    <title>《社交网络技术与应用》 项目报告 Blog</title>
+    <updated>2021-05-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://NaNaSeNishi.github.io/blog"/>
+    <subtitle>《社交网络技术与应用》 项目报告 Blog</subtitle>
+    <icon>https://NaNaSeNishi.github.io/img/wa2Icon.jpg</icon>
+    <entry>
+        <title type="html"><![CDATA[About this project]]></title>
+        <id>关于本项目</id>
+        <link href="https://NaNaSeNishi.github.io/blog/关于本项目"/>
+        <updated>2021-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[项目主题]]></summary>
+    </entry>
+</feed>
