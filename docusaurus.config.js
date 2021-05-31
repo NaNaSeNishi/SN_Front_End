@@ -3,7 +3,7 @@ module.exports = {
   title: '《社交网络技术与应用》 项目报告',
   tagline: '日本排放核废水事件为主题的社交媒体分析',
   url: 'https://NaNaSeNishi.github.io',
-  baseUrl: '/',
+  baseUrl: '/SN_Front_End/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/wa2Icon.jpg',
@@ -12,9 +12,6 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: 'Social Network ',
-      logo: {
-        src: 'img/wa2Icon.jpg',
-      },
       items: [
         {
           type: 'doc',
