@@ -14,7 +14,7 @@ module.exports = {
       title: 'Social Network ',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/wa2Icon.jpg',
+        src: 'img/logo.svg',
       },
       items: [
         {
@@ -77,13 +77,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/NaNaSeNishi/SN_Front_End',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/NaNaSeNishi/SN_Front_End/tree/main/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
