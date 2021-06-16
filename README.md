@@ -1,5 +1,6 @@
 # 《社交网络技术与应用》 项目报告
 
+厦门大学信息学院《社交网络技术与应用》 项目报告
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 click here:
 https://nanasenishi.github.io/SN_Front_End/
